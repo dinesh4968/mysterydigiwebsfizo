@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/mistrba/Desktop/THIIIIS/CryptoWallet PRO/app/.cxx/cmake/noAnalyticsRelease/armeabi-v7a'
+ninja: no work to do.
